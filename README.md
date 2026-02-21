@@ -1,3 +1,6 @@
+Copy of [lucidrains](https://codeberg.org/lucidrains) egnn-pytorch library. Please refer here https://codeberg.org/lucidrains/egnn-pytorch
+
+
 <img src="./egnn.png" width="600px"></img>
 
 ** A bug has been discovered with the neighbor selection in the presence of masking. If you ran any experiments prior to 0.1.12 that had masking, please rerun them. 🙏 **
